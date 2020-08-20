@@ -1,7 +1,7 @@
 {
   "type": "panel",
-  "name": "Pie Softtek",
-  "id": "softtek-piechart-panel",
+  "name": "Pie-Chart Softtek",
+  "id": "softtek-piechart",
   "info": {
     "description": "Softtek Pie chart panel for grafana",
     "author": {
@@ -19,7 +19,7 @@
     "links": [
       {
         "name": "Project site",
-        "url": "https://github.com/saterunholy/piechart-panel"
+        "url": "https://github.com/saterunholy/softtek-grafana-piechart"
       },
       {
         "name": "Blog Post",
@@ -56,7 +56,7 @@
     "updated": "2020-08-04",
     "build": {
       "time": 1596562418990,
-      "repo": "git@github.com:saterunholy/piechart-panel.git",
+      "repo": "git@github.com:saterunholy/softtek-grafana-piechart.git",
       "branch": "v1.6.x",
       "hash": "7dfce7966d348a12286ac660883466a3d0a0f731",
       "number": 230
