@@ -1,7 +1,7 @@
 {
   "type": "panel",
-  "name": "Pie-Chart Softtek",
-  "id": "softtek-piechart",
+  "name": "Pie-Chart from Softtek",
+  "id": "softtek-piechart-pan",
   "info": {
     "description": "Softtek Pie chart panel for grafana",
     "author": {
